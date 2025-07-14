@@ -1,7 +1,7 @@
 # config.py
 
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-ADMIN_ID = 123456789  # Replace with your Telegram user ID
+BOT_TOKEN = "8192579751:AAHDr9_i6kIbir4Cz7u8jYnIpdKIQbR0TXM"
+ADMIN_ID = 7489027229  # Replace with your Telegram user ID
 
-BTC_ADDRESS = "your_btc_address_here"
-LTC_ADDRESS = "your_ltc_address_here"
+BTC_ADDRESS = "bc1q2g6s8lzps8fyaztzudtfu43uved78nzajmtgsc"
+LTC_ADDRESS = "LNveD5JNChh7K6Bx9wyLgrNLQAmdNvRZcR"
